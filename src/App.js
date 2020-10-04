@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - This is my first app - Jenish
+          Learn React - This is my first app - Jenish and Pinal
         </a>
       </header>
     </div>
